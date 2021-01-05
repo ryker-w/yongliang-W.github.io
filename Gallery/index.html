@@ -45,9 +45,17 @@
 <body>
   <div id="app">
     
+      <canvas class="fireworks"></canvas>
+      <style>
+        .fireworks {
+          position: fixed;
+          left: 0;
+          top: 0;
+          z-index: 99999;
+          pointer-events: none;
+        }
+      </style>
       
-      <canvas width="1777" height="841"
-        style="position: fixed; left: 0px; top: 0px; z-index: 99999; pointer-events: none;"></canvas>
       
     <main class="content on">
       <section class="outer">
@@ -96,18 +104,6 @@
     
 
     <!-- copyright -->
-    
-    <div class="declare">
-      <ul class="post-copyright">
-        <li>
-          <i class="ri-copyright-line"></i>
-          <strong>版权声明： </strong>
-          
-          本博客所有文章除特别声明外，著作权归作者所有。转载请注明出处！
-          
-        </li>
-      </ul>
-    </div>
     
     <footer class="article-footer">
        
@@ -279,7 +275,7 @@
 <nav class="navbar">
   
   <div class="logo">
-    <a href="/"><img src="/favicon.ico" alt="WYL的博客"></a>
+    <a href="/"><img src="/images/ayer-side.svg" alt="WYL的博客"></a>
   </div>
   
   <ul class="nav nav-main">
@@ -313,11 +309,7 @@
     </li>
     
     <li class="nav-item">
-      <a class="nav-item-link" href="/2019/about">关于我</a>
-    </li>
-    
-    <li class="nav-item">
-      <a class="nav-item-link" href="/about">关于</a>
+      <a class="nav-item-link" href="/about">关于我</a>
     </li>
     
   </ul>
@@ -509,11 +501,12 @@
 
 <!-- ClickBoom1 -->
 
+<script src="https://cdn.jsdelivr.net/npm/animejs@latest/anime.min.js"></script>
+
+<script src="/js/clickBoom1.js"></script>
+
+
 <!-- ClickBoom2 -->
-
-
-<script src="/js/clickBoom2.js"></script>
-
 
 <!-- CodeCopy -->
 
