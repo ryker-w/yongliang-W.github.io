@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-01-04T06:59:54.681Z</updated>
+  <updated>2021-01-05T10:53:41.147Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,35 +17,46 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2021/01/05/hello-world/"/>
-    <id>http://example.com/2021/01/05/hello-world/</id>
-    <published>2021-01-05T01:39:40.506Z</published>
-    <updated>2021-01-04T06:59:54.681Z</updated>
+    <title>阿弥陀佛么么哒</title>
+    <link href="http://example.com/2021/01/05/%E9%98%BF%E5%BC%A5%E9%99%80%E4%BD%9B%E4%B9%88%E4%B9%88%E5%93%92/"/>
+    <id>http://example.com/2021/01/05/%E9%98%BF%E5%BC%A5%E9%99%80%E4%BD%9B%E4%B9%88%E4%B9%88%E5%93%92/</id>
+    <published>2021-01-05T10:45:12.000Z</published>
+    <updated>2021-01-05T10:53:41.147Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="请相信，这个世界上真的有人在过着你想要的生活，愿你我即可以朝九晚五，又能够浪迹天涯。"><a href="#请相信，这个世界上真的有人在过着你想要的生活，愿你我即可以朝九晚五，又能够浪迹天涯。" class="headerlink" title="请相信，这个世界上真的有人在过着你想要的生活，愿你我即可以朝九晚五，又能够浪迹天涯。"></a>请相信，这个世界上真的有人在过着你想要的生活，愿你我即可以朝九晚五，又能够浪迹天涯。</h3><blockquote><ol><li><p><strong>所谓朋友，不过是我在路上走着，遇到了你，大家点头微笑，结伴一程。</strong></p></li><li><p><strong>缘深缘浅，缘聚缘散，该分手时分手，该重逢时重逢。</strong><br><strong>惜缘即可，不必攀缘。</strong></p></li><li><p><strong>当一个人的内心充满了什么，感受到了什么，他所看到的就会是什么。</strong></p></li><li><p><strong>人生是一场不断校正方向的旅行，有人找到的方向是事业，有人找到的是信仰，有人找到的是爱······我们可以旅行，但不能没有方向。</strong></p></li><li><p><strong>世界很大，有故事的人很多。 每个有故事的人都有一个共性： 他们有生活。</strong></p></li><li><p><strong>缘深缘浅，缘聚缘散，惜缘随缘莫攀缘。</strong></p></li><li><p><strong>诗难果腹养心肺，酒不解渴润平生。</strong></p></li></ol></blockquote>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h3 id=&quot;请相信，这个世界上真的有人在过着你想要的生活，愿你我即可以朝九晚五，又能够浪迹天涯。&quot;&gt;&lt;a href=&quot;#请相信，这个世界上真的有人在过着你想要的生活，愿你我即可以朝九晚五，又能够浪迹天涯。&quot; class=&quot;headerlink&quot; title=&quot;请相信，这个世界</summary>
       
     
     
     
+    
+    <category term="语录" scheme="http://example.com/tags/%E8%AF%AD%E5%BD%95/"/>
     
   </entry>
   
   <entry>
-    <title>tags</title>
-    <link href="http://example.com/2021/01/03/tags/"/>
-    <id>http://example.com/2021/01/03/tags/</id>
-    <published>2021-01-03T06:12:20.000Z</published>
-    <updated>2021-01-03T06:12:20.549Z</updated>
+    <title>落幕无悔</title>
+    <link href="http://example.com/2021/01/05/%E8%90%BD%E5%B9%95%E6%97%A0%E6%82%94/"/>
+    <id>http://example.com/2021/01/05/%E8%90%BD%E5%B9%95%E6%97%A0%E6%82%94/</id>
+    <published>2021-01-05T10:27:04.000Z</published>
+    <updated>2021-01-05T10:44:55.888Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="落幕无悔，安之于心"><a href="#落幕无悔，安之于心" class="headerlink" title="落幕无悔，安之于心"></a>落幕无悔，安之于心</h1><h2 id="不管结果如何"><a href="#不管结果如何" class="headerlink" title="不管结果如何"></a>不管结果如何</h2><p>无法逃避的就是自我，无法挽回的就是过去。觉人之诈，不愤于言；受人之侮，不动于色；察人之过，不扬于他；施人之惠，不记于心；受人之恩，铭记于心；受人之鱼，而学之渔；识人之才，授之于权；善于谋人，有容乃大。</p><h2 id="不问前途凶吉"><a href="#不问前途凶吉" class="headerlink" title="不问前途凶吉"></a>不问前途凶吉</h2><p>所见所闻改变一生，不知不觉会断送一生。没有目标的人永远为有目标的人去努力。变外生变是最大的危机，满足现状是最大的陷讲。下对注，赢一次；跟对人，赢一世。老板只能给你一个位置，不能给你一个未来，舞台再大，人走茶凉。</p><h2 id="莫畏前程艰险"><a href="#莫畏前程艰险" class="headerlink" title="莫畏前程艰险"></a>莫畏前程艰险</h2><p>承认自己的伟大，就是认同自己的愚疑。越是假正经，越爱装真性情。当人心变成市场，市场变成赌场，那必会死伤惨重。我从来没奢求过谁能明白我的心情，因为我的经历是空前绝后的，别人不是我，不知道我多痛过。</p><h4 id="勇者愤怒-抽刃向更强者-怯者愤怒-却抽刃向更弱者。"><a href="#勇者愤怒-抽刃向更强者-怯者愤怒-却抽刃向更弱者。" class="headerlink" title="勇者愤怒,抽刃向更强者;怯者愤怒,却抽刃向更弱者。"></a>勇者愤怒,抽刃向更强者;怯者愤怒,却抽刃向更弱者。</h4><p>我一向不愿穿戴昂贵的服饰，不愿拥有名牌，因为深感自己没有那样名贵;我一向不喜出入西装革履、衣香鬓影的场合，因为深感自己没有那样高级。我要谦虚卑微一如山上的一株野草，自在地生活于大地，但也有高贵的自尊，俯视这红尘大地。</p><h4 id="你有没有这样的感觉"><a href="#你有没有这样的感觉" class="headerlink" title="你有没有这样的感觉"></a>你有没有这样的感觉</h4><p>坐在一列火车上，沿途跟着一条河，你看着它在晨光暮霭中变换着色彩 ，看着它洗涤一缕缕 阳光，看着它映衬一片片星辉，看着它或是汹涌或是平静，然而一直相随，不离不弃。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;落幕无悔，安之于心&quot;&gt;&lt;a href=&quot;#落幕无悔，安之于心&quot; class=&quot;headerlink&quot; title=&quot;落幕无悔，安之于心&quot;&gt;&lt;/a&gt;落幕无悔，安之于心&lt;/h1&gt;&lt;h2 id=&quot;不管结果如何&quot;&gt;&lt;a href=&quot;#不管结果如何&quot; class=&quot;head</summary>
+      
     
     
     
     
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
