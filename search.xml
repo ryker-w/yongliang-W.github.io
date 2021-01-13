@@ -8,6 +8,7 @@
 <p>Node.js 是一个基于 Chrome V8 引擎的 <a href="https://baike.baidu.com/item/JavaScript/321142">JavaScript</a> 运行环境。 Node.js 使用了一个事件驱动、非阻塞式 I/O 的模型。 [1]</p>
 <p>Node 是一个让 JavaScript 运行在<a href="https://baike.baidu.com/item/%E6%9C%8D%E5%8A%A1%E7%AB%AF/6492316">服务端</a>的开发平台，它让 JavaScript 成为与<a href="https://baike.baidu.com/item/PHP/9337">PHP</a>、<a href="https://baike.baidu.com/item/Python/407313">Python</a>、<a href="https://baike.baidu.com/item/Perl/851577">Perl</a>、<a href="https://baike.baidu.com/item/Ruby/11419">Ruby</a> 等服务端语言平起平坐的<a href="https://baike.baidu.com/item/%E8%84%9A%E6%9C%AC%E8%AF%AD%E8%A8%80/1379708">脚本语言</a>。 [2] 发布于2009年5月，由Ryan Dahl开发，实质是对Chrome V8引擎进行了封装。</p>
 <p>Node对一些特殊用例进行优化，提供替代的<a href="https://baike.baidu.com/item/API/10154">API</a>，使得V8在非浏览器环境下运行得更好。V8引擎执行Javascript的速度非常快，性能非常好。Node是一个基于Chrome JavaScript运行时建立的平台， 用于方便地搭建响应速度快、易于扩展的网络应用。Node 使用<a href="https://baike.baidu.com/item/%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8/9597519">事件驱动</a>， 非阻塞<a href="https://baike.baidu.com/item/I%2FO/84718">I/O</a> 模型而得以轻量和高效，非常适合在分布式设备上运行数据密集型的实时应用。</p>
+<a id="more"></a>
 <ul>
 <li>
 <p>中文名</p>
@@ -166,7 +167,7 @@
 <p><img src="https://pic4.zhimg.com/80/v2-a9c3d39b018fc3870005f5f904fa2b1b_720w.png" alt="img"></p>
 <p><code>wx:for</code>也可以嵌套，下边是一个九九乘法表</p>
 <p><img src="https://pic2.zhimg.com/80/v2-befc1e6885c58197c7d60a8e9c7741ad_720w.jpg" alt="img"></p>
-<h3 id="block-wx-for"><a class="header-anchor" href="#block-wx-for">¶</a>block wx:for</h3>
+<h3 id="more-block-wx-for"><a class="header-anchor" href="#more-block-wx-for">¶</a><a id="more"></a>block wx:for</h3>
 <p>类似 <code>block wx:if</code>，也可以将 <code>wx:for</code> 用在<code>&lt;block/&gt;</code>标签上，以渲染一个包含多节点的结构块。例如：</p>
 <p><img src="https://pic3.zhimg.com/80/v2-272e0f963a41ec7bdef7825fdf732aee_720w.jpg" alt="img"></p>
 <h3 id="wx-key"><a class="header-anchor" href="#wx-key">¶</a>wx:key</h3>
@@ -243,7 +244,7 @@
 <p>🐬🐬</p>
 <p>苍山雪，洱海月，洱海月照苍山雪。</p>
 <p>🐬🐬🐬</p>
-<p>“是不是对生活不太满意，很久没有笑过又不知为何，既然不快乐又不喜欢这里，不如一路向西，去大理。”——郝云《去大理》开头是不是便触碰到了心灵，总是简单的道理被复杂的生活掩盖，渐渐听不见内心的声音。总是为了梦想忘记了“父母在，不远游”的古言，放弃了宁静的心灵和身体，把自己置身压力复杂之中，在奔波那么久以后，我们，到底要的是什么？</p>
+<p>“是不是对生活不太满意，很久没有笑过又不知为何，既然不快乐又不喜欢这里，不如一路向西，去大理。”<a id="more"></a>——郝云《去大理》开头是不是便触碰到了心灵，总是简单的道理被复杂的生活掩盖，渐渐听不见内心的声音。总是为了梦想忘记了“父母在，不远游”的古言，放弃了宁静的心灵和身体，把自己置身压力复杂之中，在奔波那么久以后，我们，到底要的是什么？</p>
 <p>🐬🐬🐬🐬</p>
 <p>水光万顷开天镜，山色四时环翠屏。</p>
 <p>🐬🐬🐬🐬🐬</p>
@@ -293,7 +294,7 @@
 <p><strong>当一个人的内心充满了什么，感受到了什么，他所看到的就会是什么。</strong></p>
 </li>
 <li>
-<p><strong>人生是一场不断校正方向的旅行，有人找到的方向是事业，有人找到的是信仰，有人找到的是爱······我们可以旅行，但不能没有方向。</strong></p>
+<p><strong>人生是一场不断校正方向的旅行，有人找到的方向是事业，有人找到的是信仰，有人找到的是爱······<a id="more"></a>我们可以旅行，但不能没有方向。</strong></p>
 </li>
 <li>
 <p><strong>世界很大，有故事的人很多。 每个有故事的人都有一个共性： 他们有生活。</strong></p>
@@ -320,7 +321,7 @@
     <url>/2021/01/05/%E8%90%BD%E5%B9%95%E6%97%A0%E6%82%94/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1>❤️ 落幕无悔，安之于心❤️</h1>
 <h2 id="🏃-不管结果如何"><a class="header-anchor" href="#🏃-不管结果如何">¶</a>🏃 不管结果如何</h2>
-<p>无法逃避的就是自我，无法挽回的就是过去。觉人之诈，不愤于言；受人之侮，不动于色；察人之过，不扬于他；施人之惠，不记于心；受人之恩，铭记于心；受人之鱼，而学之渔；识人之才，授之于权；善于谋人，有容乃大。</p>
+<p>无法逃避的就是自我，无法挽回的就是过去。觉人之诈，不愤于言；受人之侮，不动于色；察人之过，不扬于他；施人之惠，不记于心；受人之恩，铭记于心；受人之鱼，而学之渔；识人之才，授之于权；善于谋人，有容乃大。<a id="more"></a></p>
 <h2 id="🌞-不问前途凶吉"><a class="header-anchor" href="#🌞-不问前途凶吉">¶</a>🌞 不问前途凶吉</h2>
 <p>所见所闻改变一生，不知不觉会断送一生。没有目标的人永远为有目标的人去努力。变外生变是最大的危机，满足现状是最大的陷讲。下对注，赢一次；跟对人，赢一世。老板只能给你一个位置，不能给你一个未来，舞台再大，人走茶凉。</p>
 <h2 id="🚀-莫畏前程艰险"><a class="header-anchor" href="#🚀-莫畏前程艰险">¶</a>🚀 莫畏前程艰险</h2>
