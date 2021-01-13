@@ -150,6 +150,7 @@
         <tag>node</tag>
         <tag>js</tag>
         <tag>技术介绍</tag>
+        <tag>前端</tag>
       </tags>
   </entry>
   <entry>
@@ -205,11 +206,13 @@
 <p>一般来说，<code>wx:if</code> 有更高的切换消耗而 <code>hidden</code> 有更高的初始渲染消耗。因此，如果需要频繁切换的情景下，用 <code>hidden</code> 更好，如果在运行时条件不大可能改变则 <code>wx:if</code> 较好。</p>
 ]]></content>
       <categories>
-        <category>Afo</category>
+        <category>前端</category>
       </categories>
       <tags>
+        <tag>前端</tag>
         <tag>技术文章</tag>
-        <tag>微信小程序</tag>
+        <tag>微信</tag>
+        <tag>小程序</tag>
       </tags>
   </entry>
   <entry>
@@ -224,11 +227,12 @@
 <p><a id="anchor"></a> Anchor</p>
 ]]></content>
       <categories>
-        <category>Afo</category>
+        <category>后端</category>
       </categories>
       <tags>
         <tag>世界</tag>
         <tag>测试</tag>
+        <tag>后端</tag>
       </tags>
   </entry>
   <entry>
