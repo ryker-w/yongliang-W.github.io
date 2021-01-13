@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Java项目权威排名</title>
+    <url>/2021/01/13/Java%E9%A1%B9%E7%9B%AE%E6%9D%83%E5%A8%81%E6%8E%92%E5%90%8D/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1e89344eb3054cb6aa820ea03cd835a0~tplv-k3u1fbpfcp-watermark.image" alt="img"></p>
+<h1>Java 项目权威排名：Nacos 未上版，Gradle 排名第二，Maven 排名 28</h1>
+<p><a href="https://github.com/ossf/criticality_score">github.com/ossf/critic…</a> 发布了开源项目排名，下载地址：<a href="https://commondatastorage.googleapis.com/ossf-criticality-score/index.html">https://commondatastorage.googleapis.com/ossf-criticality-score/index.html</a></p>
+<p>我在这里选出我感兴趣，而且和公众认知不大一致的排名。</p>
+<p><strong>Spring生态</strong><br>
+![在这里插入图片描述](data:image/svg+xml;utf8,<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800" height="600"></svg>)<br>
+这点毫无疑问，Spring生态是Java开发的实际标准规范。<br>
+![在这里插入图片描述](data:image/svg+xml;utf8,<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800" height="600"></svg>)<br>
+基于“事件驱动架构”的Spring Cloud Stream项目也上榜了，这才是微服务解耦的正确姿势。<br>
+![在这里插入图片描述](data:image/svg+xml;utf8,<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800" height="600"></svg>)<br>
+<strong>gradle vs maven（第2名vs第27）</strong></p>
+<p>gradle无论是易用性还是性能都超过maven，但是大部分同学还苦苦守着maven。<br>
+![在这里插入图片描述](data:image/svg+xml;utf8,<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800" height="600"></svg>)<br>
+<strong>kafka vs pulsar（第12名vs第20名）</strong></p>
+<p>最近盛传pulsar要取代kafka，kafka这么大的生态是不会轻易被取代的。<br>
+![在这里插入图片描述](data:image/svg+xml;utf8,<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800" height="600"></svg>)<br>
+<strong>Spring Security vs Shiro（第16名vs未上榜）</strong></p>
+<p>Java生态安全领域只有Spring Security是完整领先的解决方案。<br>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d723356eacf942309ab7aba8e4dc5eda~tplv-k3u1fbpfcp-zoom-1.image" alt="在这里插入图片描述"><br>
+<strong>Hibernate vs Mybatis（第60名vs第114）</strong></p>
+<p>全世界只有中日韩在使用Mybatis，什么原因？因为太聪明了，不需要和别人协作！<br>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7a0c5befac924ee2b211b2ee44121d5a~tplv-k3u1fbpfcp-zoom-1.image" alt="在这里插入图片描述"><br>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e0c6312605514116a7838c903b233a11~tplv-k3u1fbpfcp-zoom-1.image" alt="在这里插入图片描述"><br>
+<strong>Activiti vs Camunda（第28名vs第64名）</strong></p>
+<p>Activiti近几年大有被Camunda取代的感觉，难道这是个幻觉？还是瘦死的骆驼比马大？<br>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6a818eea7d454794bf21025ce1e971bf~tplv-k3u1fbpfcp-zoom-1.image" alt="在这里插入图片描述"><br>
+<strong>Eureka vs Apollo vs Nacos（第81vs第126vs未上榜）</strong></p>
+<p>啥年代了，服务发现当然要依赖于基础设施了（k8s，istio），你们都洗洗睡吧。<br>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/cda0e35f771441cfb582053675bb5bc2~tplv-k3u1fbpfcp-zoom-1.image" alt="在这里插入图片描述"><br>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/29ec325aedc64d6e9c0fc72ba5caf8d2~tplv-k3u1fbpfcp-zoom-1.image" alt="在这里插入图片描述"><br>
+<strong>lombok（第50名）</strong></p>
+<p>你公司不让用lombok？脑子有毛病吗？<br>
+<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b89f7de22c0046b3a240052a17e34439~tplv-k3u1fbpfcp-zoom-1.image" alt="在这里插入图片描述"><br>
+来源：<a href="http://toutiao.com/i6908912198412681732/">toutiao.com/i6908912198412681732/</a></p>
+]]></content>
+      <categories>
+        <category>后端</category>
+      </categories>
+      <tags>
+        <tag>技术文章</tag>
+        <tag>Java</tag>
+        <tag>Java项目</tag>
+        <tag>后端</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Node Js百科</title>
     <url>/2021/01/13/Node-Js%E7%99%BE%E7%A7%91/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="nodejs一般指node-js"><a class="header-anchor" href="#nodejs一般指node-js">¶</a>nodejs一般指node.js</h3>
@@ -145,13 +193,33 @@
 </ul>
 ]]></content>
       <categories>
-        <category>程序猿手册</category>
+        <category>后端</category>
       </categories>
       <tags>
+        <tag>后端</tag>
         <tag>node</tag>
         <tag>js</tag>
         <tag>技术介绍</tag>
-        <tag>前端</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>世界</title>
+    <url>/2021/01/06/%E4%B8%96%E7%95%8C/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><a href="#anchor">Link to Anchor</a></p>
+<p>sss</p>
+<p>s</p>
+<p>s</p>
+<p>s</p>
+<p>s</p>
+<p><a id="anchor"></a> Anchor</p>
+]]></content>
+      <categories>
+        <category>后端</category>
+      </categories>
+      <tags>
+        <tag>后端</tag>
+        <tag>世界</tag>
+        <tag>测试</tag>
       </tags>
   </entry>
   <entry>
@@ -210,30 +278,10 @@
         <category>前端</category>
       </categories>
       <tags>
-        <tag>前端</tag>
         <tag>技术文章</tag>
         <tag>微信</tag>
         <tag>小程序</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>世界</title>
-    <url>/2021/01/06/%E4%B8%96%E7%95%8C/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><a href="#anchor">Link to Anchor</a></p>
-<p>sss</p>
-<p>s</p>
-<p>s</p>
-<p>s</p>
-<p>s</p>
-<p><a id="anchor"></a> Anchor</p>
-]]></content>
-      <categories>
-        <category>后端</category>
-      </categories>
-      <tags>
-        <tag>世界</tag>
-        <tag>测试</tag>
-        <tag>后端</tag>
+        <tag>前端</tag>
       </tags>
   </entry>
   <entry>
@@ -278,6 +326,29 @@
       </tags>
   </entry>
   <entry>
+    <title>落幕无悔</title>
+    <url>/2021/01/05/%E8%90%BD%E5%B9%95%E6%97%A0%E6%82%94/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1>❤️ 落幕无悔，安之于心❤️</h1>
+<h2 id="🏃-不管结果如何"><a class="header-anchor" href="#🏃-不管结果如何">¶</a>🏃 不管结果如何</h2>
+<p>无法逃避的就是自我，无法挽回的就是过去。觉人之诈，不愤于言；受人之侮，不动于色；察人之过，不扬于他；施人之惠，不记于心；受人之恩，铭记于心；受人之鱼，而学之渔；识人之才，授之于权；善于谋人，有容乃大。<a id="more"></a></p>
+<h2 id="🌞-不问前途凶吉"><a class="header-anchor" href="#🌞-不问前途凶吉">¶</a>🌞 不问前途凶吉</h2>
+<p>所见所闻改变一生，不知不觉会断送一生。没有目标的人永远为有目标的人去努力。变外生变是最大的危机，满足现状是最大的陷讲。下对注，赢一次；跟对人，赢一世。老板只能给你一个位置，不能给你一个未来，舞台再大，人走茶凉。</p>
+<h2 id="🚀-莫畏前程艰险"><a class="header-anchor" href="#🚀-莫畏前程艰险">¶</a>🚀 莫畏前程艰险</h2>
+<p>承认自己的伟大，就是认同自己的愚疑。越是假正经，越爱装真性情。当人心变成市场，市场变成赌场，那必会死伤惨重。我从来没奢求过谁能明白我的心情，因为我的经历是空前绝后的，别人不是我，不知道我多痛过。</p>
+<h4 id="🐑-勇者愤怒-抽刃向更强者-怯者愤怒-却抽刃向更弱者。"><a class="header-anchor" href="#🐑-勇者愤怒-抽刃向更强者-怯者愤怒-却抽刃向更弱者。">¶</a>🐑 勇者愤怒,抽刃向更强者;怯者愤怒,却抽刃向更弱者。</h4>
+<p>我一向不愿穿戴昂贵的服饰，不愿拥有名牌，因为深感自己没有那样名贵;我一向不喜出入西装革履、衣香鬓影的场合，因为深感自己没有那样高级。我要谦虚卑微一如山上的一株野草，自在地生活于大地，但也有高贵的自尊，俯视这红尘大地。</p>
+<h4 id="☘️-你有没有这样的感觉"><a class="header-anchor" href="#☘️-你有没有这样的感觉">¶</a>☘️ 你有没有这样的感觉</h4>
+<p>坐在一列火车上，沿途跟着一条河，你看着它在晨光暮霭中变换着色彩 ，看着它洗涤一缕缕 阳光，看着它映衬一片片星辉，看着它或是汹涌或是平静，然而一直相随，不离不弃。</p>
+]]></content>
+      <categories>
+        <category>Quotations</category>
+      </categories>
+      <tags>
+        <tag>旅行</tag>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>阿佛么么哒</title>
     <url>/2021/01/05/%E9%98%BF%E5%BC%A5%E9%99%80%E4%BD%9B%E4%B9%88%E4%B9%88%E5%93%92/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="🍷-请相信，这个世界上真的有人在过着你想要的生活，愿你我既可以朝九晚五，又能够浪迹天涯。"><a class="header-anchor" href="#🍷-请相信，这个世界上真的有人在过着你想要的生活，愿你我既可以朝九晚五，又能够浪迹天涯。">¶</a>🍷 请相信，这个世界上真的有人在过着你想要的生活，愿你我既可以朝九晚五，又能够浪迹天涯。</h3>
@@ -314,29 +385,6 @@
       <tags>
         <tag>生活</tag>
         <tag>缘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>落幕无悔</title>
-    <url>/2021/01/05/%E8%90%BD%E5%B9%95%E6%97%A0%E6%82%94/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1>❤️ 落幕无悔，安之于心❤️</h1>
-<h2 id="🏃-不管结果如何"><a class="header-anchor" href="#🏃-不管结果如何">¶</a>🏃 不管结果如何</h2>
-<p>无法逃避的就是自我，无法挽回的就是过去。觉人之诈，不愤于言；受人之侮，不动于色；察人之过，不扬于他；施人之惠，不记于心；受人之恩，铭记于心；受人之鱼，而学之渔；识人之才，授之于权；善于谋人，有容乃大。<a id="more"></a></p>
-<h2 id="🌞-不问前途凶吉"><a class="header-anchor" href="#🌞-不问前途凶吉">¶</a>🌞 不问前途凶吉</h2>
-<p>所见所闻改变一生，不知不觉会断送一生。没有目标的人永远为有目标的人去努力。变外生变是最大的危机，满足现状是最大的陷讲。下对注，赢一次；跟对人，赢一世。老板只能给你一个位置，不能给你一个未来，舞台再大，人走茶凉。</p>
-<h2 id="🚀-莫畏前程艰险"><a class="header-anchor" href="#🚀-莫畏前程艰险">¶</a>🚀 莫畏前程艰险</h2>
-<p>承认自己的伟大，就是认同自己的愚疑。越是假正经，越爱装真性情。当人心变成市场，市场变成赌场，那必会死伤惨重。我从来没奢求过谁能明白我的心情，因为我的经历是空前绝后的，别人不是我，不知道我多痛过。</p>
-<h4 id="🐑-勇者愤怒-抽刃向更强者-怯者愤怒-却抽刃向更弱者。"><a class="header-anchor" href="#🐑-勇者愤怒-抽刃向更强者-怯者愤怒-却抽刃向更弱者。">¶</a>🐑 勇者愤怒,抽刃向更强者;怯者愤怒,却抽刃向更弱者。</h4>
-<p>我一向不愿穿戴昂贵的服饰，不愿拥有名牌，因为深感自己没有那样名贵;我一向不喜出入西装革履、衣香鬓影的场合，因为深感自己没有那样高级。我要谦虚卑微一如山上的一株野草，自在地生活于大地，但也有高贵的自尊，俯视这红尘大地。</p>
-<h4 id="☘️-你有没有这样的感觉"><a class="header-anchor" href="#☘️-你有没有这样的感觉">¶</a>☘️ 你有没有这样的感觉</h4>
-<p>坐在一列火车上，沿途跟着一条河，你看着它在晨光暮霭中变换着色彩 ，看着它洗涤一缕缕 阳光，看着它映衬一片片星辉，看着它或是汹涌或是平静，然而一直相随，不离不弃。</p>
-]]></content>
-      <categories>
-        <category>Quotations</category>
-      </categories>
-      <tags>
-        <tag>旅行</tag>
-        <tag>随笔</tag>
       </tags>
   </entry>
 </search>
