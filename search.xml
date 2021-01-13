@@ -1,6 +1,158 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Node Js百科</title>
+    <url>/2021/01/13/Node-Js%E7%99%BE%E7%A7%91/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="nodejs一般指node-js"><a class="header-anchor" href="#nodejs一般指node-js">¶</a>nodejs一般指node.js</h3>
+<p>本词条由<a href="https://baike.baidu.com/science">“科普中国”科学百科词条编写与应用工作项目</a> 审核 。</p>
+<p>Node.js 是一个基于 Chrome V8 引擎的 <a href="https://baike.baidu.com/item/JavaScript/321142">JavaScript</a> 运行环境。 Node.js 使用了一个事件驱动、非阻塞式 I/O 的模型。 [1]</p>
+<p>Node 是一个让 JavaScript 运行在<a href="https://baike.baidu.com/item/%E6%9C%8D%E5%8A%A1%E7%AB%AF/6492316">服务端</a>的开发平台，它让 JavaScript 成为与<a href="https://baike.baidu.com/item/PHP/9337">PHP</a>、<a href="https://baike.baidu.com/item/Python/407313">Python</a>、<a href="https://baike.baidu.com/item/Perl/851577">Perl</a>、<a href="https://baike.baidu.com/item/Ruby/11419">Ruby</a> 等服务端语言平起平坐的<a href="https://baike.baidu.com/item/%E8%84%9A%E6%9C%AC%E8%AF%AD%E8%A8%80/1379708">脚本语言</a>。 [2] 发布于2009年5月，由Ryan Dahl开发，实质是对Chrome V8引擎进行了封装。</p>
+<p>Node对一些特殊用例进行优化，提供替代的<a href="https://baike.baidu.com/item/API/10154">API</a>，使得V8在非浏览器环境下运行得更好。V8引擎执行Javascript的速度非常快，性能非常好。Node是一个基于Chrome JavaScript运行时建立的平台， 用于方便地搭建响应速度快、易于扩展的网络应用。Node 使用<a href="https://baike.baidu.com/item/%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8/9597519">事件驱动</a>， 非阻塞<a href="https://baike.baidu.com/item/I%2FO/84718">I/O</a> 模型而得以轻量和高效，非常适合在分布式设备上运行数据密集型的实时应用。</p>
+<ul>
+<li>
+<p>中文名</p>
+<p>node.js</p>
+</li>
+<li>
+<p>外文名</p>
+<p>Node</p>
+</li>
+<li>
+<p>类  别</p>
+<p>运行于服务端的JavaScript解释器</p>
+</li>
+<li>
+<p>发布时间</p>
+<p>2009年5月</p>
+</li>
+<li>
+<p>开发者</p>
+<p>Ryan Dahl</p>
+</li>
+<li>
+<p>最新版本</p>
+<p>13.9.0</p>
+</li>
+<li>
+<p>更新时间</p>
+<p>2020-02-25</p>
+</li>
+</ul>
+<h2 id="目录"><a class="header-anchor" href="#目录">¶</a>目录</h2>
+<ol>
+<li>
+<p>1 <a href="https://baike.baidu.com/item/node.js/7567977?fromtitle=nodejs&amp;fromid=11244313&amp;fr=aladdin#1">发展史</a></p>
+</li>
+<li>
+<p>2 <a href="https://baike.baidu.com/item/node.js/7567977?fromtitle=nodejs&amp;fromid=11244313&amp;fr=aladdin#2">特性</a></p>
+</li>
+<li>
+<p>3 <a href="https://baike.baidu.com/item/node.js/7567977?fromtitle=nodejs&amp;fromid=11244313&amp;fr=aladdin#3">模块</a></p>
+</li>
+<li>
+<p>4 <a href="https://baike.baidu.com/item/node.js/7567977?fromtitle=nodejs&amp;fromid=11244313&amp;fr=aladdin#4">安装</a></p>
+</li>
+<li>
+<p>▪ <a href="https://baike.baidu.com/item/node.js/7567977?fromtitle=nodejs&amp;fromid=11244313&amp;fr=aladdin#4_1">Linux下安装Node</a></p>
+</li>
+<li>
+<p>▪ <a href="https://baike.baidu.com/item/node.js/7567977?fromtitle=nodejs&amp;fromid=11244313&amp;fr=aladdin#4_2">Windows下安装Node</a></p>
+</li>
+<li>
+<p>5 <a href="https://baike.baidu.com/item/node.js/7567977?fromtitle=nodejs&amp;fromid=11244313&amp;fr=aladdin#5">集成开发环境</a></p>
+</li>
+<li>
+<p>6 <a href="https://baike.baidu.com/item/node.js/7567977?fromtitle=nodejs&amp;fromid=11244313&amp;fr=aladdin#6">应用方向</a></p>
+</li>
+<li>
+<p>7 <a href="https://baike.baidu.com/item/node.js/7567977?fromtitle=nodejs&amp;fromid=11244313&amp;fr=aladdin#7">示例程序</a></p>
+</li>
+<li>
+<p>8 <a href="https://baike.baidu.com/item/node.js/7567977?fromtitle=nodejs&amp;fromid=11244313&amp;fr=aladdin#8">事务处理示例</a></p>
+</li>
+</ol>
+<h2 id="发展史"><a class="header-anchor" href="#发展史">¶</a>发展史</h2>
+<p>[编辑](javascript:😉</p>
+<ul>
+<li>2009年2月，Ryan Dahl在<a href="https://baike.baidu.com/item/%E5%8D%9A%E5%AE%A2/124">博客</a>上宣布准备基于V8创建一个轻量级的<a href="https://baike.baidu.com/item/Web%E6%9C%8D%E5%8A%A1%E5%99%A8">Web服务器</a>并提供一套库。</li>
+<li>2009年5月，Ryan Dahl在GitHub上发布了最初版本的部分Node包，随后几个月里，有人开始使用Node开发应用。</li>
+<li>2009年11月和2010年4月，两届JSConf大会都安排了Node.js的讲座。</li>
+<li>2010年年底，Node获得<a href="https://baike.baidu.com/item/%E4%BA%91%E8%AE%A1%E7%AE%97">云计算</a>服务商Joyent资助，创始人Ryan Dahl加入Joyent全职负责Node的发展。</li>
+<li>2011年7月，Node在微软的支持下发布<a href="https://baike.baidu.com/item/Windows">Windows</a>版本。</li>
+</ul>
+<h2 id="特性"><a class="header-anchor" href="#特性">¶</a>特性</h2>
+<p>[编辑](javascript:😉</p>
+<p>V8引擎本身使用了一些最新的编译技术。这使得用Javascript这类<a href="https://baike.baidu.com/item/%E8%84%9A%E6%9C%AC%E8%AF%AD%E8%A8%80">脚本语言</a>编写出来的代码运行速度获得了极大提升，又节省了开发成本。对性能的苛求是Node的一个关键因素。 Javascript是一个<a href="https://baike.baidu.com/item/%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8">事件驱动</a>语言，Node利用了这个优点，编写出可扩展性高的服务器。Node采用了一个称为“事件循环(event loop）”的架构，使得编写可扩展性高的服务器变得既容易又安全。提高服务器性能的技巧有多种多样。Node选择了一种既能提高性能，又能减低开发复杂度的架构。这是一个非常重要的特性。并发编程通常很复杂且布满地雷。Node绕过了这些，但仍提供很好的性能。</p>
+<p>Node采用一系列“非阻塞”库来支持事件循环的方式。本质上就是为文件系统、数据库之类的资源提供接口。向文件系统发送一个请求时，无需等待硬盘（<a href="https://baike.baidu.com/item/%E5%AF%BB%E5%9D%80">寻址</a>并检索文件），硬盘准备好的时候非阻塞接口会通知Node。该模型以可扩展的方式简化了对慢资源的访问， 直观，易懂。尤其是对于熟悉<a href="https://baike.baidu.com/item/onmouseover">onmouseover</a>、onclick等<a href="https://baike.baidu.com/item/DOM/50288">DOM</a>事件的用户，更有一种似曾相识的感觉。</p>
+<p>虽然让Javascript运行于服务器端不是Node的独特之处，但却是其一强大功能。不得不承认，浏览器环境限制了我们选择编程语言的自由。任何服务器与日益复杂的浏览器客户端应用程序间共享代码的愿望只能通过Javascript来实现。虽然还存在其他一些支持Javascript在服务器端 运行的平台，但因为上述特性，Node发展迅猛，成为事实上的平台。</p>
+<p>在Node启动的很短时间内，社区就已经贡献了大量的扩展库（模块）。其中很多是连接数据库或是其他软件的驱动，但还有很多是凭他们的实力制作出来的非常有用的软件。</p>
+<p>最后，不得不提到的是Node社区。虽然Node项目还非常年轻，但很少看到对一个项目如此狂热的社区。不管是新手，还是专家，大家都围绕着项目，使用并贡献自己的能力，致力于打造一个探索、支持、分享、听取建议的乐土。</p>
+<p><strong>Node的优点</strong></p>
+<p>Node作为一个新兴的前端框架，后台语言，有很多吸引人的地方：</p>
+<p>RESTful API</p>
+<p>单线程</p>
+<p>Node可以在不新增额外线程的情况下，依然可以对任务进行并发处理 —— Node.js是单线程的。它通过事件循环（event loop）来实现并发操作，对此，我们应该要充分利用这一点 —— 尽可能的避免阻塞操作，取而代之，多使用非阻塞操作。</p>
+<p>非阻塞IO</p>
+<p>V8虚拟机</p>
+<p>事件驱动</p>
+<h2 id="模块"><a class="header-anchor" href="#模块">¶</a>模块</h2>
+<p>[编辑](javascript:😉</p>
+<p>Node使用Module模块去划分不同的功能，以简化应用的开发。Modules模块有点像C++语言中的类库。每一个Node的类库都包含了十分丰富的各类函数，比如http模块就包含了和http功能相关的很多函数，可以帮助开发者很容易地对比如http,tcp/udp等进行操作，还可以很容易的创建http和tcp/udp的服务器。</p>
+<p>要在程序中使用模块是十分方便的，只需要如下：</p>
+<p>在这里，引入了http类库，并且对http类库的引用存放在http变量中了。这个时候，Node会在我们应用中搜索是否存在node_modules的目录，并且搜索这个目录中是否存在http的模块。如果Node.js找不到这个目录，则会到全局模块缓存中去寻找，用户可以通过相对或者绝对路径，指定模块的位置，比如：</p>
+<p>var myModule = require(‘./myModule.js’);</p>
+<p>模块中包含了很多功能代码片断，在模块中的代码大部分都是私有的，意思是在模块中定义的函数方法和变量，都只能在同一个模块中被调用。当然，可以将某些方法和变量暴露到模块外，这个时候可以使用exports对象去实现。</p>
+<h2 id="安装"><a class="header-anchor" href="#安装">¶</a>安装</h2>
+<p>[编辑](javascript:😉</p>
+<h3 id="Linux下安装Node"><a class="header-anchor" href="#Linux下安装Node">¶</a>Linux下安装Node</h3>
+<p>下面介绍下Node的安装，首先在nodejs的网站上根据操作系统下载相关的安装包，对于Ubuntu(linux)下的安装，可以如下进行：</p>
+<p>sudo apt-get update</p>
+<p>sudo apt-get install node</p>
+<p>或者：</p>
+<p>sudo apt update</p>
+<p>sudo apt install node</p>
+<h3 id="Windows下安装Node"><a class="header-anchor" href="#Windows下安装Node">¶</a>Windows下安装Node</h3>
+<p>官网现已提供安装包（最新的长期支持版本: <strong>10.16.0</strong>）、编译器和相应的API 文档（English）。 [1]</p>
+<h2 id="集成开发环境"><a class="header-anchor" href="#集成开发环境">¶</a>集成开发环境</h2>
+<p>[编辑](javascript:😉</p>
+<p>具备书写JavaScript的IDE均可。普通的记事本也可以进行开发。</p>
+<h2 id="应用方向"><a class="header-anchor" href="#应用方向">¶</a>应用方向</h2>
+<p>[编辑](javascript:😉</p>
+<p>在几年的时间里，Node.JS逐渐发展成一个成熟的开发平台，吸引了许多开发者。有许多大型高流量网站都采用Node.JS进行开发，此外，开发人员还可以使用它来开发一些快速移动<a href="https://baike.baidu.com/item/Web/150564">Web</a>框架。</p>
+<p>除了Web应用外，NodeJS也被应用在许多方面，本文盘点了NodeJS在其它方面所开发的十大令人神奇的项目，这些项目涉及到应用程序监控、媒体流、远程控制、桌面和移动应用等等。</p>
+<h2 id="示例程序"><a class="header-anchor" href="#示例程序">¶</a>示例程序</h2>
+<p>[编辑](javascript:😉</p>
+<p>任何一套标准都由一个著名的程序开始：Hello World ！在Node中，Http是首要的。Node为创建http服务器做了优化，所以你在网上看到的大部分示例和库都是集中在web上(http框架、模板库等）。以下做了一个nodejs的Hello World 演示：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">var&#96; &#96;http &#x3D; require(&#96;&#96;&#39;http&#39;&#96;&#96;);&#96;&#96;server &#x3D; http.createServer(&#96;&#96;function&#96; &#96;(req, res) &#123;&#96;&#96;res.writeHeader(200, &#123;&#96;&#96;&quot;Content-Type&quot;&#96;&#96;: &#96;&#96;&quot;text&#x2F;plain&quot;&#96;&#96;&#125;);&#96;&#96;res.end(&#96;&#96;&quot;Hello World\n&quot;&#96;&#96;);&#96;&#96;&#125;);&#96;&#96;server.listen(8000);&#96;&#96;console.log(&#96;&#96;&quot;httpd start @8000&quot;&#96;&#96;);</span><br></pre></td></tr></table></figure>
+<h2 id="事务处理示例"><a class="header-anchor" href="#事务处理示例">¶</a>事务处理示例</h2>
+<p>[编辑](javascript:😉</p>
+<p>本示例意图向读者传递 Node.js 关于 HTTP 处理过程的详实概念。在不考虑编程语言和环境的情况下，我们假设您已经知晓通常情况下 HTTP 请求是如何工作的，并且对 Node.js 的 EventEmitters 和 Streams 也已知晓。如果您对他们并不熟悉，通过 API 文档可以快速查阅。</p>
+<p>创建服务</p>
+<p>Node 的网络应用都需要先创建一个网络服务对象，这里我们通过 createServer 来实现。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">var http &#x3D; require(&#96;&#96;&#39;http&#39;&#96;&#96;);&#96;&#96;var server &#x3D; http.createServer(function(request, response) &#123;  &#96;&#96;&#x2F;&#x2F; handle your request&#96;&#96;&#125;);</span><br></pre></td></tr></table></figure>
+<p>传入 createServer 的 function 在每次 HTTP 请求时都将被调用执行，因此这个 function 也被称为请求的处理者。事实上通过 createServer 返回的 Server 对象是一个 EventEmitter，我们需要做的仅仅是在这里保存这个 server 对象，并在之后对其添加监听器。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">var http &#x3D; require(&#96;&#96;&#39;http&#39;&#96;&#96;);&#96;&#96;var server &#x3D; http.createServer(); &#96;&#96;server.on(&#96;&#96;&#39;request&#39;&#96;&#96;, function(request, response) &#123;&#96;&#96;&#x2F;&#x2F; handle your request&#96;&#96;&#125;);</span><br></pre></td></tr></table></figure>
+<p>当 HTTP 请求这个服务时，node 调用请求处理者 function 并传入一些用于处理事务相关的对象：request 和 response。我们可以非常方便的获得这两个对象。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">var http &#x3D; require(&#96;&#96;&#39;http&#39;&#96;&#96;);&#96;&#96;var server &#x3D; http.createServer(); &#96;&#96;server.on(&#96;&#96;&#39;request&#39;&#96;&#96;, function(request, response) &#123;&#96;&#96;&#x2F;&#x2F; handle your request&#96;&#96;&#125;).listen(8080); </span><br></pre></td></tr></table></figure>
+<p>为了对实际的请求提供服务，在 server 对象上需要调用 listen 方法。绝大多数情况你需要传入 listen 你想要服务监听的端口号，这里也存在很多其他的可选方案，参见 API reference。</p>
+<ul>
+<li>
+<p>参考资料</p>
+<p>1.<a href="https://baike.baidu.com/item/node.js/7567977?fromtitle=nodejs&amp;fromid=11244313&amp;fr=aladdin#ref_%5B1%5D_3974030"> </a><a href="https://baike.baidu.com/reference/7567977/cec36_cETFczOGaXsj7XUlpROaU9d3hSNxtLl-V_7g6m7h6X8pPicCm5Cqkwyg">Node.js中文网 </a> ．Node.js中文网[引用日期2019-06-08]</p>
+<p>2.<a href="https://baike.baidu.com/item/node.js/7567977?fromtitle=nodejs&amp;fromid=11244313&amp;fr=aladdin#ref_%5B2%5D_3974030"> </a><a href="https://baike.baidu.com/reference/7567977/86b51H3SpmdRm7zFFbUd-6RtiUYsxOodPk5vK6jSScA3xrjtcGXTJnta0X7OiuLFEVGOJlQZL789toGKMlADxd1eqSIscD9T_Lkf8LilE9yr-KfynEdmzlug">Node.js开发实战详解 </a> ．清华大学出版社．2012-5-5[引用日期2018-08-21]</p>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>程序猿手册</category>
+      </categories>
+      <tags>
+        <tag>node</tag>
+        <tag>js</tag>
+        <tag>技术介绍</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>微信小程序wx:for和wx:if的用法</title>
     <url>/2021/01/13/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8Fwx-for%E5%92%8Cwx-if%E7%9A%84%E7%94%A8%E6%B3%95/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="wx-for"><a class="header-anchor" href="#wx-for">¶</a>wx:for</h3>
