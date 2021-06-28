@@ -1,3 +1,3 @@
-<script>
-  import
-</script>
+
+const go = function(){
+}
